@@ -10,3 +10,15 @@ GitHub is a development platform inspired by the way you work. From <strong>open
 6. Next, GitHub sends a launch code to your email address. Type that launch code in the <strong>Enter code dialog</strong>, and then press <strong>Enter</strong>.
 7. GitHub asks you some questions to help tailor your experience. Choose the answers that apply to you in the following dialogs.
 8. On the <strong>Where teams collaborate</strong> and <strong>ship screen</strong>, you can choose whether you want to use the Free account or the Team account. To choose the Free account, select the <strong>Skip personalization</strong> button.
+
+## Step to Make Repository
+1. In the upper-right corner of any page, use the  drop-down menu, and select <strong>New repository</strong>.
+2. Type a short, memorable name for your repository. For example, "hello-world".
+3. Optionally, add a description of your repository. For example, "My first repository on GitHub."
+4. Choose a repository visibility. Can be private and public.
+5. Select Initialize this repository with a <strong>README</strong>.
+6. Click <strong>Create repository</strong>.
+
+## Documentation
+<img src= "../assets/my_GitHub.png">
+Already have an account
