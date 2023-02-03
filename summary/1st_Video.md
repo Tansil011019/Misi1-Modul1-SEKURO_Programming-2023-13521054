@@ -13,10 +13,10 @@ Github dan git yang mungkin dipakai secara terpisah dan juga dapat dipakai secar
 Version Control System, disebut juga <em> revision control system </em> atau <em> sourse code management </em> adalah sistem yang mengelola perubahan dari sebuah dokumen, program komputer, website dan kumpulan informasi lain.
 
 ### Why Should We Have Version Control System?
-1. Dapat menyimpan "rekaman / <em>snapshot</em>" perubahan pada source code
-2. Memungkinkan bekerja berkolaborasi dengan lebih baik
-3. Mengetahui siapa uang melakukan dan kapan sebuah perubahan terjadi
-4. Memungkinkan kita untuk kembali ke keadaan sebelum perubahan (<em>checkout</em>)
+1. Dapat menyimpan "rekaman / <em>snapshot</em>" perubahan pada source code.
+2. Memungkinkan bekerja berkolaborasi dengan lebih baik.
+3. Mengetahui siapa uang melakukan dan kapan sebuah perubahan terjadi.
+4. Memungkinkan kita untuk kembali ke keadaan sebelum perubahan (<em>checkout</em>).
 
 ### Version Control System's Product
 1. Git (yang akan dijelaskan pada rangkuman ini).
