@@ -38,9 +38,9 @@ Git adalah sebuah <em>Version Control System</em> terdistribusi untuk mengelola 
 ### Commit Mechanism
 ![Commit View](../assets/commit_properties.png)
 1. Baris pertama merupakan kode hash untuk menyimpan version.
-2. Baris kedua adalah nama dan account orang yang melakukan perubahan
-3. Baris ketiga adalah waktu kapan terjadinya perubahan
-4. Baris keempat adalah pesan commit
+2. Baris kedua adalah nama dan account orang yang melakukan perubahan.
+3. Baris ketiga adalah waktu kapan terjadinya perubahan.
+4. Baris keempat adalah pesan commit.
 
 ### Branch and Merge
 <em><strong>Branch</strong></em> diperlukan agar semua pekerjaan yang dilakukan tidak langsung merubah main program, serta lebih mudah untuk dilakukan kontrol terhadap error pada fitur tertentu.
