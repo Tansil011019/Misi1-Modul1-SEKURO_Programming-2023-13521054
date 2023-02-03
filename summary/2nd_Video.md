@@ -1,6 +1,11 @@
 # Second Video : Bekerja Dengan GitHub
 GitHub is a development platform inspired by the way you work. From <strong>open source</strong> to <strong>business</strong>, you can host and review code, manage project, and build software alongside 31 million developers.
 
+## Table of Content
+1. [Step to Make an Account in GitHub](#step-to-make-an-account-in-github)
+2. [Step to Make Repository](#step-to-make-repository)
+3. [Documentation](#documentation)
+
 ## Step to Make an Account in GitHub
 1. Open [GitHub](https://github.com) in a web browser, and then select <strong>Sign up</strong>.
 2. Enter your email address.
