@@ -19,10 +19,10 @@ Version Control System, disebut juga <em> revision control system </em> atau <em
 4. Memungkinkan kita untuk kembali ke keadaan sebelum perubahan (<em>checkout</em>)
 
 ### Version Control System's Product
-1. Git (yang akan dijelaskan pada rangkuman ini)
-2. Subversion
-3. Mercurial
-4. CVS
+1. Git (yang akan dijelaskan pada rangkuman ini).
+2. Subversion.
+3. Mercurial.
+4. CVS.
 
 ## Git
 ### What is Git?
