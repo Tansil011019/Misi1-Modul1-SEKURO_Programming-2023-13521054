@@ -21,4 +21,13 @@ GitHub is a development platform inspired by the way you work. From <strong>open
 
 ## Documentation
 <img src= "../assets/my_GitHub.png">
-Already have an account
+
+> Already have an account, I will skip the part that required to signup.
+
+![Repository](../assets/Repository.png)
+
+> Page to create repository.
+
+![Repo View](../assets/Repo_View.png)
+
+> My assignment repository
