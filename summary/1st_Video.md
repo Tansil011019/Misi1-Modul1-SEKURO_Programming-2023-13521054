@@ -29,7 +29,7 @@ Git adalah sebuah <em>Version Control System</em> terdistribusi untuk mengelola 
 5. Project selesai, <em><strong>release version</strong></em>
 
 ### Commit Mechanism
-![Commit View](./assets/commit_properties.png)
+![Commit View](assets/commit_properties.png)
 1. Baris pertama merupakan kode hash untuk menyimpan version.
 2. Baris kedua adalah nama dan account orang yang melakukan perubahan
 3. Baris ketiga adalah waktu kapan terjadinya perubahan
