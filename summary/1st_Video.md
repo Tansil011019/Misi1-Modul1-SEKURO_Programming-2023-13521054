@@ -29,11 +29,11 @@ Version Control System, disebut juga <em> revision control system </em> atau <em
 Git adalah sebuah <em>Version Control System</em> terdistribusi untuk mengelola perubahan file di dalam folder (<em>repository / repo</em>). Riwayat perubahan file disimpan menggunakan serangkaian <em><strong>commit</strong></em>.
 
 ### How Git Works?
-1. Inisialisasi Project
-2. Menambahkan view untuk login dan registrasi
-3. Melakukan penyimpanan riwayat dengan commit
-4. Apabila masih belum selesai, maka tahap ketiga akan dilakukan terus menerus
-5. Project selesai, <em><strong>release version</strong></em>
+1. Inisialisasi Project.
+2. Menambahkan view untuk login dan registrasi.
+3. Melakukan penyimpanan riwayat dengan commit.
+4. Apabila masih belum selesai, maka tahap ketiga akan dilakukan terus menerus.
+5. Project selesai, <em><strong>release version</strong></em>.
 
 ### Commit Mechanism
 ![Commit View](../assets/commit_properties.png)
